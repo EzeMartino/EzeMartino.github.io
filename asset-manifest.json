@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ezemartino.github.io/ezemartino.github.io/static/css/main.f32435d0.css",
-    "main.js": "/ezemartino.github.io/ezemartino.github.io/static/js/main.5612a33b.js",
-    "index.html": "/ezemartino.github.io/ezemartino.github.io/index.html",
-    "main.f32435d0.css.map": "/ezemartino.github.io/ezemartino.github.io/static/css/main.f32435d0.css.map",
-    "main.5612a33b.js.map": "/ezemartino.github.io/ezemartino.github.io/static/js/main.5612a33b.js.map"
+    "main.css": "/TP-LABIII/static/css/main.f32435d0.css",
+    "main.js": "/TP-LABIII/static/js/main.2c1539e5.js",
+    "index.html": "/TP-LABIII/index.html",
+    "main.f32435d0.css.map": "/TP-LABIII/static/css/main.f32435d0.css.map",
+    "main.2c1539e5.js.map": "/TP-LABIII/static/js/main.2c1539e5.js.map"
   },
   "entrypoints": [
     "static/css/main.f32435d0.css",
-    "static/js/main.5612a33b.js"
+    "static/js/main.2c1539e5.js"
   ]
 }
