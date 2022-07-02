@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ezemartino.github.io/ezemartino.github.io/static/css/main.f32435d0.css",
+    "main.js": "/ezemartino.github.io/ezemartino.github.io/static/js/main.5612a33b.js",
+    "index.html": "/ezemartino.github.io/ezemartino.github.io/index.html",
+    "main.f32435d0.css.map": "/ezemartino.github.io/ezemartino.github.io/static/css/main.f32435d0.css.map",
+    "main.5612a33b.js.map": "/ezemartino.github.io/ezemartino.github.io/static/js/main.5612a33b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f32435d0.css",
+    "static/js/main.5612a33b.js"
+  ]
+}
